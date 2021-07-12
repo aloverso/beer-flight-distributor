@@ -1,0 +1,8 @@
+.next
+*.md
+public/
+out_publish/
+out_functions/
+out/
+cypress/plugins
+cypress/support
